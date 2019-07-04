@@ -1,0 +1,32 @@
+#container{
+    font-family: "Microsoft YaHei UI";
+    font-size: 12px;
+    width:640px;
+    margin: 0 auto;
+    line-height: 25px;
+}
+#first>div{
+    margin-top: 10px;
+}
+#name{
+    font-family: "Microsoft YaHei UI";
+    font-size: 28px;
+}
+.title{
+    margin-top: 50px;
+    font-size: 16px;
+}
+.content{
+    margin-bottom: 25px;
+    color: grey;
+}
+.titleDown{
+    font-weight: bold;
+}
+.remark{
+    float: right;
+    color: grey;
+}
+.edu{
+    color: grey;
+}
